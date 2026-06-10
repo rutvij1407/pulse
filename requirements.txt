@@ -1,0 +1,15 @@
+spotipy==2.23.0
+pandas==2.2.2
+numpy==1.26.4
+matplotlib==3.9.0
+seaborn==0.13.2
+scikit-learn==1.5.0
+nltk==3.8.1
+textblob==0.18.0
+vaderSentiment==3.3.2
+google-api-python-client==2.131.0
+wordcloud==1.9.3
+jupyter==1.0.0
+requests==2.32.3
+schedule==1.2.2
+python-dotenv==1.0.1
