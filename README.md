@@ -1,5 +1,7 @@
 # Pulse — Streaming Music Analytics Pipeline
 
+Live site: https://pulse-amber-kappa.vercel.app
+
 Automated data pipeline that ingests music data from Spotify and YouTube APIs, performs NLP sentiment analysis on listener comments, and surfaces trends through interactive Tableau dashboards.
 
 ## Key Findings
